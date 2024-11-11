@@ -109,12 +109,11 @@ So look at it, discuss it, learn. And then get in to designing them yourself.
 
 ### Data Access Layer
 
-[None Yet]]
+[None Yet]
 
 ### Data Services
 
-Open Exchange Tickers
-
+Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
 
 —-
