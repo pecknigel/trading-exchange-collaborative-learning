@@ -97,6 +97,22 @@ So look at it, discuss it, learn. And then get in to designing them yourself.
 
 ## Tier Interface Agreements
 
+### With All That Said…
+
+With all that said about us needing to have agreements about the layer interfaces, it doesn’t have to be so inflexible.
+
+It’s certainly helpful to include that in the approach. For those working on a particular piece and focusing on learning how to do that, it’s helpful to have a structure to work to.
+
+So this is for them. And for anyone else who wants to work with this but doesn’t want to learn about or experiment with designing programming interfaces.
+
+However, for those that do, you can of course have a go at this any way that you want. What you produce doesn’t need to work with what others produce.
+
+And if there turns up an alternative approach that works well then hey, we can look at having two sets of interfaces. Or more. It all depends who comes along and what seems fun and useful to learn.
+
+For now, we’re focusing on coming up with an interface set that works and we can take it forward from them.
+
+### The Agreements
+
 [Tier Interface agreements coming soon]
 
 ## Existing Implementations
