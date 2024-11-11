@@ -109,7 +109,7 @@ However, for those that do, you can of course have a go at this any way that you
 
 And if there turns up an alternative approach that works well then hey, we can look at having two sets of interfaces. Or more. It all depends who comes along and what seems fun and useful to learn.
 
-For now, we’re focusing on coming up with an interface set that works and we can take it forward from them.
+For now, we’re focusing on coming up with an interface set that works and we can take it forward from there.
 
 ### The Agreements
 
