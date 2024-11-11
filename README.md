@@ -87,6 +87,8 @@ Consider CRUD. Create, Read, Update, Delete. It can support whatever you might w
 
 That’s a simple example. But a good one. Your abstractions and interfaces will be more complex, but the principles are the same.
 
+Google has a pretty cool [API Design Guide](https://cloud.google.com/apis/design/). It talks about “networked APIs but the  principles are also great learning for modular software in general.
+
 We’ll specify interfaces for the layers. We have to, so all work to the same interfaces, or the system couldn’t function.
 
 Within the piece that you write, the interfaces will be up to you. And the principles are the same.
