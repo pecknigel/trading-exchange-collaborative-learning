@@ -97,6 +97,26 @@ So look at it, discuss it, learn. And then get in to designing them yourself.
 
 [Tier Interface agreements coming soon]
 
+## Existing Implementations
+
+### Clients
+
+[None yet]
+
+### Application Layer
+
+[None Yet]
+
+### Data Access Layer
+
+[None Yet]]
+
+### Data Services
+
+Open Exchange Tickers
+
+[GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
+
 —-
 
 [More Coming - Actively Writing November 11 2024]
