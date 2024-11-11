@@ -71,6 +71,32 @@ It’s all about the interfaces, and I’ll talk more about that soon, once we g
 
 The data access layer is a tier that handles all data access. It communicates with the application tier and manages the data.
 
+## Interfaces
+
+So it’s all about the interfaces.
+
+I said it before and I’ll no doubt say it again.
+
+That’s how modular software works. Whether it’s a function, a class or a layer of an N-tier architecture. It needs a solid interface that isn’t tied to any implementation details. So the implementation can change without changing the interface. So it’s built to represent what the module does rather than how it does it. And so that it works in a consistent, clean and coherent way for whatever it needs to do, whatever way it needs to do it, for now, the foreseeable future, and in some cases, also the unforeseeable.
+
+It’s an art. And one that takes practice.
+
+And it’s achieved by keeping it simple and abstracted from implementation details.
+
+Consider CRUD. Create, Read, Update, Delete. It can support whatever you might want to do with data. It’s abstracted. It doesn’t care what data you add, what you delete, what you change. It’s a clean, coherent and consistent surface for working with data.
+
+That’s a simple example. But a good one. Your abstractions and interfaces will be more complex, but the principles are the same.
+
+We’ll specify interfaces for the layers. We have to, so all work to the same interfaces, or the system couldn’t function.
+
+Within the piece that you write, the interfaces will be up to you. And the principles are the same.
+
+So look at it, discuss it, learn. And then get in to designing them yourself.
+
+## Tier Interface Agreements
+
+[Tier Interface agreements coming soon]
+
 —-
 
 [More Coming - Actively Writing November 11 2024]
