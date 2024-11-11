@@ -1,7 +1,7 @@
 
 # Trading Exchange Collaborative Learning Program
 
-This repo is an umbrella for the Trading Exchange Collaborative Learning Program from Prescription Free.
+This repo is an umbrella for the Trading Exchange Collaborative Learning Program from the Prescription Free Academy of Web Development and Software Engineering.
 
 It includes general information and documentation related to the program, along with links to the individual repos.
 
