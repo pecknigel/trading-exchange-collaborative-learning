@@ -43,4 +43,30 @@ This is a collaborative project, so you might work alone on a small client with 
 
 As this moves forward and clients start to be developed, info will be posted to this repo.
 
+### Application Layer
+
+This is where a simpler system would just be “server”. One server application to do everything.
+
+We’re going a bit further than that. So there’s an application tier that handles communication with the client. An API.
+
+But it doesn’t handle any data. At least other than passing it through. That’s the job of the data access layer, which we’ll look at next.
+
+It handles application logic and makes available an appropriate interface for the client.
+
+Business logic also goes here. Although there can be some of that in the data access layer too.
+
+It’s possible to have a separate business logic layer, but we’re not currently looking at doing that.
+
+So the beauty of this approach is that it’s flexible how it’s hosted. You can have multiple instances of the application layer and less of the data access, if that’s what’s needed to handle the load.
+
+You can move the application layer closer to the user and keep the data access where the data is, causing only the necessary traffic across the distance between.
+
+It’s a well established and well used architecture. Do some research on it. Also know as N-tier architecture.
+
+### Data Access Layer
+
+The data access layer is a tier that handles all data access. It communicates with the application tier and manages the data.
+
+—-
+
 [More Coming - Actively Writing November 11 2024]
