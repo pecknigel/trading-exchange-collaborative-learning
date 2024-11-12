@@ -20,7 +20,9 @@ It’s the starting point if you’re looking for something.
 2. [Interfaces](#interfaces)
 3. [Tier Interface Agreements](#tier-interface-agreements)
     1. [With All That Said](#with-all-that-said)
-    2. [The Agreements](#the-agreements)
+    2. [Application Layer](#application-layer)
+    3. [Data Access Layer](#data-access-layer)
+    4. [Data Service Layer](#data-services)
 4. [Existing Implementations](#existing-implementations)
 
 ## System Architecture and General Ramble
@@ -127,11 +129,23 @@ And if there turns up an alternative approach that works well then hey, we can l
 
 For now, we’re focusing on coming up with an interface set that works and we can take it forward from there.
 
-### The Agreements
+### Application Layer
 
-[Tier Interface agreements coming soon]
+[None Yet]
+
+### Data Access Layer
+
+[None Yet]
+
+### Data Services
+
+[None Yet]
 
 ## Existing Implementations
+
+These are existing implementations of the layers. They can be put together to locally run a complete system.
+
+Live instances will be set up in the future.
 
 ### Clients
 
