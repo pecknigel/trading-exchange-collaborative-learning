@@ -52,13 +52,15 @@ So there’s the client. Let’s start there.
 
 The client is whatever you want it to be. Most likely that’ll be a web application. But if you want to build a handheld device and write the client in assembly, go ahead. Just make sure it can talk HTTP, as we’re not looking to make it available through any other protocol.
 
+(For the picky out there, yes, we’ll no doubt need to set up WebSocket at some point, but I’m waiting for a student to step up to that, and in picky response it’s essentially part of HTTP anyway.)
+
 But I suppose you could always build a gateway to translate HTTP to whatever and back. So even that’s not beyond the bound of possibility.
 
 Whatever those are.
 
 But for the less adventurous of us, the client is going to be a web application.
 
-We’re not fans of React around here, so it’ll likely be Angular, Vue or vanilla JS.
+We’re not big fans of React around here, so it’ll likely be Angular, Vue or vanilla JS.
 
 What does the client do? Well that depends who builds it.
 
