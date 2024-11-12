@@ -1,7 +1,7 @@
 
 # Trading Exchange Collaborative Learning Program
 
-***This project is in its early days. Started November 8 2024.***
+***This project is in its early days. Started November 7, 2024.***
 
 This repo is an umbrella for the Trading Exchange Collaborative Learning Program from the Prescription Free Academy of Web Development and Software Engineering.
 
