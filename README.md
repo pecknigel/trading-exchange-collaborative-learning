@@ -64,7 +64,7 @@ We’re not big fans of React around here, so it’ll likely be Angular, Vue or 
 
 What does the client do? Well that depends who builds it.
 
-This is a collaborative project, so you might work alone on a small client with limited or even narrowly focused functionality (a widget that displays tickers), or collaborate on something more substantial, or even build something more substantial yourself (such as a trading app).
+This is a collaborative project, so you might work alone on a small client with limited or even narrowly focused functionality (a website widget that displays tickers), or collaborate on something more substantial, or even build something more substantial yourself (such as a trading app).
 
 As this moves forward and clients start to be developed, info will be posted to this repo.
 
