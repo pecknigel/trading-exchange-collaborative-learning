@@ -11,6 +11,18 @@ Resources that apply to the program can go here. It’s not intended for code, b
 
 It’s the starting point if you’re looking for something.
 
+## Contents
+
+1. [System Architecture and General Ramble](#system-architecture-and-general-ramble)
+    1. [The Client](#the-client)
+    2. [Application Layer](#application-layer)
+    3. [Data Access Layer](#data-access-layer)
+2. [Interfaces](#interfaces)
+3. [Tier Interface Agreements](#tier-interface-agreements)
+    1. [With All That Said](#with-all-that-said)
+    2. [The Agreements](#the-agreements)
+4. [Existing Implementations](#existing-implementations)
+
 ## System Architecture and General Ramble
 
 The trading exchange is a multitiered, multi-tenant, distributed system. It is intended to have multiple clients and support new ones without modification to other layers.
