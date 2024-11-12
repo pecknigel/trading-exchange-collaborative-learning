@@ -148,10 +148,10 @@ Other interface styles will be considered and set up as appropriate.
 ### Application Layer
 
 End Points for Individual Tickers    
-Potentially `/ticker/{TICKER_ID}`
+Potentially `GET /ticker/{TICKER_ID}`
 
 End Point for Ticker List    
-Potentially `/tickers`
+Potentially `GET /tickers`
 
 Filters for Ticker List
 
