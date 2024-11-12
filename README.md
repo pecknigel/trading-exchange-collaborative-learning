@@ -177,7 +177,7 @@ Filters for Ticker List
 
 ## Existing Implementations
 
-These are existing implementations of the layers. They can be put together to locally run a complete system.
+These are existing implementations of the layers. They can be put together locally locally run a complete system.
 
 Live instances will be set up in the future.
 
