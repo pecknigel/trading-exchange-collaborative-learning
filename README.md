@@ -212,7 +212,7 @@ For information on how to get an individual project set up and running on your l
 
 ### Development Tools
 
-You’re going to need an IDE or Integrated Development Environment. We highly recommend WebStorm from JetBrains. It’s just so much more fun and useful to use than VS Code. And now (November 2024) has a free version for non-commercial work, which all of this is classed as. And the paid version is not an expensive subscription - choose “For Individual Use” if looking at pricing.
+You’re going to need an IDE or Integrated Development Environment. We highly recommend WebStorm from JetBrains. It’s just so much more fun and useful to use than VS Code. And now (November 2024) has a free version for non-commercial work, which all of this is classed as. The paid version is not an expensive subscription - choose “For Individual Use” if looking at pricing.
 
 [WebStorm from JetBrains](https://www.jetbrains.com/webstorm/)
 
