@@ -192,8 +192,8 @@ Open Exchange Data
 
 ### Data Access Layer
 
-[GitHub - pecknigel/open-exchange-connector](Open Exchange Connector    
-https://github.com/pecknigel/open-exchange-connector)
+Open Exchange Connector    
+[GitHub - pecknigel/open-exchange-connector](https://github.com/pecknigel/open-exchange-connector)
 
 ### Data Services
 
