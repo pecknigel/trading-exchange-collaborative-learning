@@ -252,6 +252,22 @@ A web application for trading.
 
 A website widget for displaying ticker prices.
 
+### Comprehensive Application Layer API
+
+Design and develop a comprehensive API for handling exchange trading.
+
+### Crypto Data Service
+
+Create a data service for piping real crypto price data.
+
+### Fake Purchases Data Service
+
+Create a data service for generating fake trades that can be used as a basis for fake markets.
+
+### Your Own Ideas
+
+There are so many possibilities for practicing software development with a fake trading exchange system. See what you can come up with or discuss it with a mentor. Share and discuss your ideas in the comments.
+
 ## Conclusion
 
 It’s all a work in progress and designed for learning and working on and practicing with; rather than all being perfect when you find it.
