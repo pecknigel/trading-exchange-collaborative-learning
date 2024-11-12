@@ -270,6 +270,6 @@ There are so many possibilities for practicing software development with a fake 
 
 ## Conclusion
 
-It’s all a work in progress and designed for learning and working on and practicing with; rather than all being perfect when you find it.
+It’s all a work in progress and designed for learning and working on and practicing with - rather than all being perfect when you find it.
 
 Stay tuned! And keep coding!
