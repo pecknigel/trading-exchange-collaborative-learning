@@ -27,6 +27,7 @@ It’s the starting point if you’re looking for something.
     5. [Data Services](#data-services)
 4. [Existing Implementations](#existing-implementations)
 5. [Getting Started](#getting-started)
+    1. [Development Tools](#development-tools)
 6. [Conclusion](#conclusion)
 
 ## System Architecture and General Ramble
@@ -208,6 +209,15 @@ Using Postman you can make HTTP requests and see the responses.
 We intend to put together Postman collections as things start coming together.
 
 For information on how to get an individual project set up and running on your local computer, see the README file for the project. If there isn’t one, consider getting involved and starting by writing one or improving what’s there.
+
+### Development Tools
+
+You’re going to need an IDE or Integrated Development Environment. We highly recommend WebStorm from JetBrains. It’s just so much more fun and useful to use than VS Code. And now (November 2024) has a free version for non-commercial work, which all of this is classed as.
+
+Here it is:
+
+WebStorm from JetBrains    
+[WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
 
 ## Conclusion
 
