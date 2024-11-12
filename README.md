@@ -26,7 +26,7 @@ It’s the starting point if you’re looking for something.
     4. [Data Access Layer](#data-access-layer)
     5. [Data Services](#data-services)
 4. [Existing Implementations](#existing-implementations)
-5. [Trying it Out](#trying-it-out)
+5. [Getting Started](#getting-started)
 6. [Conclusion](#conclusion)
 
 ## System Architecture and General Ramble
