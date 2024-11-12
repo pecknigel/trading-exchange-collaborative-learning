@@ -187,15 +187,21 @@ Live instances will be set up in the future.
 
 ### Application Layer
 
+These are available implementations of the application layer.
+
 Open Exchange Data    
 [GitHub - pecknigel/open-exchange-data](https://github.com/pecknigel/open-exchange-data)
 
 ### Data Access Layer
 
+These are available implementations of the data access layer.
+
 Open Exchange Connector    
 [GitHub - pecknigel/open-exchange-connector](https://github.com/pecknigel/open-exchange-connector)
 
 ### Data Services
+
+These are available implementations of data services.
 
 Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
