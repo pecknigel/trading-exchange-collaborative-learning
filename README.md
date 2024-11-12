@@ -28,7 +28,8 @@ It’s the starting point if you’re looking for something.
 4. [Existing Implementations](#existing-implementations)
 5. [Getting Started](#getting-started)
     1. [Development Tools](#development-tools)
-6. [Conclusion](#conclusion)
+6. [Project Ideas](#project-ideas) 
+7. [Conclusion](#conclusion)
 
 ## System Architecture and General Ramble
 
@@ -226,6 +227,30 @@ For information on how to get an individual project set up and running on your l
 You’re going to need an IDE or Integrated Development Environment. We highly recommend WebStorm from JetBrains. It’s just so much more fun and useful to use than VS Code. And now (November 2024) has a free version for non-commercial work, which all of this is classed as. The paid version is not an expensive subscription - choose “For Individual Use” if looking at pricing.
 
 [WebStorm from JetBrains](https://www.jetbrains.com/webstorm/)
+
+## Project Ideas
+
+There are several ways that you can get involved with the program in order to learn and gain experience.
+
+How much involvement you have is really up to you.
+
+At the least, you can pick up one of the projects, run it on your computer and see how it works. Everything that you need to do that is openly available.
+
+You can modify the code, connect it with other projects/layers, and work with it however you like.
+
+If you’d like more structure and guidance to your learning then mentoring sessions are available.
+
+These can be booked as you need them via the main website [Prescription Free Academy](https://prescriptionfree.academy/).
+
+The following ideas for clients that you could develop might be useful.
+
+#### Trading Application
+
+A web application for trading.
+
+#### Website Widget
+
+A website widget for displaying ticker prices.
 
 ## Conclusion
 
