@@ -19,7 +19,7 @@ It’s the starting point if you’re looking for something.
     3. [Data Access Layer](#data-access-layer)
     4. [Data Services](#data-services)
 2. [Interfaces](#interfaces)
-3. [Tier Interface Agreements](#tier-interface-agreements)
+3. [Interface Agreements](#interface-agreements)
     1. [With All That Said](#with-all-that-said)
     2. [Interface Style](#interface-style)
     3. [Application Layer Interface](#application-layer-interface)
@@ -130,7 +130,7 @@ Within the piece that you write, the interfaces will be up to you. And the princ
 
 So look at it, discuss it, learn. And then get in to designing them yourself.
 
-## Tier Interface Agreements
+## Interface Agreements
 
 ### With All That Said…
 
