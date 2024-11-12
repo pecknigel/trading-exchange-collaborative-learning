@@ -206,4 +206,10 @@ Using Postman you can make HTTP requests and see the responses.
 
 We intend to put together Postman collections as things start coming together.
 
-Stay tuned!
+For information on how to get an individual project set up and running on your local computer, see the README file for the index project. If there isn’t one, get involved and start by writing that.
+
+## Conclusion
+
+It’s all a work in progress and designed for learning and working on rather than all being perfect when you find it.
+
+Stay tuned! And keep coding!
