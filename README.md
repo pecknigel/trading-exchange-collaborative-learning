@@ -148,10 +148,17 @@ Other interface styles will be considered and set up as appropriate.
 ### Application Layer
 
 End Points for Individual Tickers    
-Potentially `/{TICKER_ID}`
+Potentially `/ticker/{TICKER_ID}`
 
 End Point for Ticker List    
-Potentially `/{TICKER_ID}`
+Potentially `/tickers`
+
+Filters for Ticker List
+
+- Category
+- Price Range
+- Ticker ID Set (default all)
+- What else?
 
 ### Data Access Layer
 
