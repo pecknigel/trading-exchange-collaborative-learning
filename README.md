@@ -86,6 +86,8 @@ So the beauty of this approach is that it’s flexible how it’s hosted. You ca
 
 You can move the application layer closer to the user and keep the data access where the data is, causing only the necessary traffic across the distance between.
 
+You can plug and play the pieces. Making use of different implementations of the layers as desired.
+
 It’s a well established and well used architecture. Do some research on it. Also know as N-tier architecture. (Share any useful links and other useful findings in the comments)
 
 The beauty of this approach for us, along with getting practice working with this kind of architecture, is that you can build just one piece and then have it interact with pieces made by others.
