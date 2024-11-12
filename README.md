@@ -21,9 +21,10 @@ It’s the starting point if you’re looking for something.
 2. [Interfaces](#interfaces)
 3. [Tier Interface Agreements](#tier-interface-agreements)
     1. [With All That Said](#with-all-that-said)
-    2. [Application Layer](#application-layer)
-    3. [Data Access Layer](#data-access-layer)
-    4. [Data Services](#data-services)
+    2. [Interface Style](#interface-style)
+    3. [Application Layer](#application-layer)
+    4. [Data Access Layer](#data-access-layer)
+    5. [Data Services](#data-services)
 4. [Existing Implementations](#existing-implementations)
 
 ## System Architecture and General Ramble
@@ -138,9 +139,19 @@ And if there turns up an alternative approach that works well then hey, we can l
 
 For now, we’re focusing on coming up with an interface set that works and we can take it forward from there.
 
+### Interface Style
+
+All interfaces are currently HTTP network APIs set up with a REST style. A GraphQL setup is planned for the future.
+
+Other interface styles will be considered and set up as appropriate.
+
 ### Application Layer
 
-[None Yet]
+End Points for Individual Tickers    
+Potentially `/{TICKER_ID}`
+
+End Point for Ticker List    
+Potentially `/{TICKER_ID}`
 
 ### Data Access Layer
 
