@@ -26,6 +26,7 @@ It’s the starting point if you’re looking for something.
     4. [Data Access Layer](#data-access-layer)
     5. [Data Services](#data-services)
 4. [Existing Implementations](#existing-implementations)
+5. [Trying it Out](#trying-it-out)
 
 ## System Architecture and General Ramble
 
@@ -191,3 +192,18 @@ Open Exchange Data
 
 Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
+
+## Trying it Out
+
+As clients are developed you’ll be able to use those to try out the system.
+
+For now, or to try out backend layers directly, the best tool is an HTTP client such as:
+
+Postman    
+[Download Postman](https://www.postman.com/downloads/)
+
+Using Postman you can make HTTP requests and see the responses.
+
+We intend to put together Postman collections as things start coming together.
+
+Stay tuned!
