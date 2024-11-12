@@ -27,6 +27,7 @@ It’s the starting point if you’re looking for something.
     5. [Data Services](#data-services)
 4. [Existing Implementations](#existing-implementations)
 5. [Trying it Out](#trying-it-out)
+6. [Conclusion](#conclusion)
 
 ## System Architecture and General Ramble
 
@@ -206,7 +207,7 @@ Using Postman you can make HTTP requests and see the responses.
 
 We intend to put together Postman collections as things start coming together.
 
-For information on how to get an individual project set up and running on your local computer, see the README file for the index project. If there isn’t one, get involved and start by writing that.
+For information on how to get an individual project set up and running on your local computer, see the README file for the project. If there isn’t one, consider getting involved and starting by writing one or improving what’s there.
 
 ## Conclusion
 
