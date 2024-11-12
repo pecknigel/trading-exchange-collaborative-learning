@@ -22,9 +22,9 @@ It’s the starting point if you’re looking for something.
 3. [Tier Interface Agreements](#tier-interface-agreements)
     1. [With All That Said](#with-all-that-said)
     2. [Interface Style](#interface-style)
-    3. [Application Layer](#application-layer)
-    4. [Data Access Layer](#data-access-layer)
-    5. [Data Services](#data-services)
+    3. [Application Layer Interface](#application-layer-interface)
+    4. [Data Access Layer Interface](#data-access-layer-interface)
+    5. [Data Services Interface](#data-services-interface)
 4. [Existing Implementations](#existing-implementations)
 5. [Getting Started](#getting-started)
     1. [Development Tools](#development-tools)
@@ -152,7 +152,7 @@ All interfaces are currently HTTP network APIs set up with a REST style. A Graph
 
 Other interface styles will be considered and set up as appropriate.
 
-### Application Layer
+### Application Layer Interface
 
 End Points for Individual Tickers    
 Potentially `GET /ticker/{TICKER_ID}`
@@ -167,11 +167,11 @@ Filters for Ticker List
 - Ticker ID Set (default all)
 - What else?
 
-### Data Access Layer
+### Data Access Layer Interface
 
 [None Yet]
 
-### Data Services
+### Data Services Interface
 
 [None Yet]
 
