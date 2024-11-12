@@ -19,11 +19,13 @@ That’s a lot of terms but since this is a learning project, it seems important
 
 At least where it’s helpful to be.
 
-It’s a system with multiple parts. Multiple layers. And multiple options for implementation of those layers.
+It’s a system with multiple parts. Multiple layers. And intended to have multiple options for implementation of the layers.
 
 Primarily the client and the server. But that would be client-server architecture. And the web is always that (ok you can open a HTML file in a web browser)(that’s not client-server)(but don’t!).
 
 This system has a bit more than that. And particularly because we’re looking to get practice working with more. But it is in the end built around the web. And we’re not looking to operate outside of that.
+
+It’s intended as an extensive and open system, providing opportunities to practice with all aspects of software engineering for the web.
 
 ### The Client
 
