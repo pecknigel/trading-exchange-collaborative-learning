@@ -211,6 +211,6 @@ For information on how to get an individual project set up and running on your l
 
 ## Conclusion
 
-It’s all a work in progress and designed for learning and working on rather than all being perfect when you find it.
+It’s all a work in progress and designed for learning and working on and practicing with; rather than all being perfect when you find it.
 
 Stay tuned! And keep coding!
