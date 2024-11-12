@@ -194,7 +194,7 @@ Open Exchange Data
 Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
 
-## Trying it Out
+## Getting Started
 
 As clients are developed you’ll be able to use those to try out the system.
 
