@@ -17,12 +17,13 @@ It’s the starting point if you’re looking for something.
     1. [The Client](#the-client)
     2. [Application Layer](#application-layer)
     3. [Data Access Layer](#data-access-layer)
+    4. [Data Services](#data-services)
 2. [Interfaces](#interfaces)
 3. [Tier Interface Agreements](#tier-interface-agreements)
     1. [With All That Said](#with-all-that-said)
     2. [Application Layer](#application-layer)
     3. [Data Access Layer](#data-access-layer)
-    4. [Data Service Layer](#data-services)
+    4. [Data Services](#data-services)
 4. [Existing Implementations](#existing-implementations)
 
 ## System Architecture and General Ramble
@@ -87,7 +88,15 @@ It’s all about the interfaces, and I’ll talk more about that soon, once we g
 
 ### Data Access Layer
 
-The data access layer is a tier that handles all data access. It communicates with the application tier and manages the data.
+The data access layer is a tier that handles all data access. It communicates with the application tier and consumes data services.
+
+### Data Services
+
+Data services plug in to the data access layer. Although there are interface agreements for the services, it is also possible that this can be open and individual services provided as appropriate, perhaps with a set of optional interface modules if that works.
+
+It’s a discussion for revisiting as the program matures.
+
+Data services can be mock data or the possibility exists for consuming real trading data.
 
 ## Interfaces
 
