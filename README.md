@@ -135,7 +135,3 @@ For now, we’re focusing on coming up with an interface set that works and we c
 
 Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
-
-—-
-
-[More Coming - Actively Writing November 11 2024]
