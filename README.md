@@ -1,8 +1,6 @@
 
 # Trading Exchange Collaborative Learning Program
 
-***This project is in its early days. Started November 7, 2024.***
-
 This repo introduces the Trading Exchange Collaborative Learning Program from the [Prescription Free Academy of Web Development and Software Engineering](https://prescriptionfree.academy/).
 
 It includes general information and documentation relating to the program, along with links to individual project repos.
