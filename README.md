@@ -103,9 +103,9 @@ The data access layer is a tier that handles all data access. It communicates wi
 
 Data services plug in to the data access layer. Although there are interface agreements for the services, it is also possible that this can be open and individual services provided as appropriate, perhaps with a set of optional interface modules if that works.
 
-It’s a discussion for revisiting as the program matures.
+We’re looking to experiment with service-oriented architecture as the data services in this imaginary economy of ours can be disparate and varied in purpose.
 
-Data services can be mock data or the possibility exists for consuming real trading data.
+Data services can be mock data or the possibility exists for consuming real trading data for transformation and repurposing.
 
 ## Interfaces
 
@@ -261,6 +261,10 @@ Create a data service for generating fake trades that can be used as a basis for
 #### Event Based Data Service
 
 A data service based on an event bus that fires off price change events and amalgamates them to a live price list. Potentially with distributed services firing events. Potentially use Observables.
+
+#### Symbol Registry Service
+
+Create a service for centrally managing the list of symbols, so that data services can use that as a basis for the data that they generate. Include categories and other metadata.
 
 #### Your Own Ideas
 
