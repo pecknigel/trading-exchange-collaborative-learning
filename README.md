@@ -260,7 +260,7 @@ Create a data service for generating fake trades that can be used as a basis for
 
 #### Event Based Data Service
 
-A data service based on an event bus that fires off price change events and amalgamates them to a live price list. Potentially with distributed services firing events.
+A data service based on an event bus that fires off price change events and amalgamates them to a live price list. Potentially with distributed services firing events. Potentially use Observables.
 
 #### Your Own Ideas
 
