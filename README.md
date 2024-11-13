@@ -230,17 +230,11 @@ You’re going to need an IDE or Integrated Development Environment. We highly r
 
 ## Project Ideas
 
-There are several ways that you can get involved with the program in order to learn and gain experience.
+There are several ways that you can get involved with the program in order to learn and gain experience. How much involvement you have is really up to you.
 
-How much involvement you have is really up to you.
+At the least, you can pick up one of the projects, run it on your computer and see how it works. Everything that you need to do that is openly available. You can modify the code, connect it with other projects/layers, and work with it however you like.
 
-At the least, you can pick up one of the projects, run it on your computer and see how it works. Everything that you need to do that is openly available.
-
-You can modify the code, connect it with other projects/layers, and work with it however you like.
-
-If you’d like more structure and guidance to your learning then mentoring sessions are available.
-
-These can be booked as you need them via the main website [Prescription Free Academy](https://prescriptionfree.academy/).
+If you’d like more structure and guidance to your learning then mentoring sessions are available. These can be booked as you need them via the main website [Prescription Free Academy](https://prescriptionfree.academy/).
 
 The following ideas for clients that you could develop might be useful.
 
