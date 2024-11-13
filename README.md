@@ -264,6 +264,10 @@ Create a data service for piping real crypto price data.
 
 Create a data service for generating fake trades that can be used as a basis for fake markets.
 
+#### Event Based Data Service
+
+A data service based on an event bus that fires off price change events and amalgamates them to a live price list. Potentially with distributed services firing events.
+
 #### Your Own Ideas
 
 There are so many possibilities for practicing software development with a fake trading exchange system. See what you can come up with or discuss it with a mentor. Share and discuss your ideas in the comments.
