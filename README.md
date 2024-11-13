@@ -266,6 +266,10 @@ A data service based on an event bus that fires off price change events and amal
 
 Create a service for centrally managing the list of symbols, so that data services can use that as a basis for the data that they generate. Include categories and other metadata.
 
+#### Debug Service Monitor
+
+Create a tool for debugging that consumes one or more data services and displays their data in real time on a web interface.
+
 #### Your Own Ideas
 
 There are so many possibilities for practicing software development with a fake trading exchange system. See what you can come up with or discuss it with a mentor. Share and discuss your ideas in the comments.
