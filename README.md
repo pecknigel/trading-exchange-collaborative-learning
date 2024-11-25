@@ -93,7 +93,10 @@ Live instances will be set up in the future.
 
 ### Clients
 
-[None yet]
+These are available client implementations.
+
+Open Exchange Website Widget    
+[GitHub - pecknigel/open-exchange-website-widget](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
 
 ### Application Layer
 
@@ -115,10 +118,6 @@ These are available implementations of data services.
 
 Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
-
-### Clients
-
-Website widget.
 
 ## Conclusion
 
