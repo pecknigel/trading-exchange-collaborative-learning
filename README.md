@@ -13,8 +13,8 @@ It’s the starting point if you’re looking for something.
 
 1. [Getting Started](#getting-started)
     1. [Development Tools](#development-tools)
-2. [Project Ideas](#project-ideas)
-3. [Existing Implementations](#existing-implementations)
+2. [Existing Implementations](#existing-implementations)
+3. [Project Ideas](#project-ideas)
 4. [Conclusion](#conclusion)
 
 ## Getting Started
@@ -38,6 +38,40 @@ You’re going to need an IDE or Integrated Development Environment. We highly r
 
 [WebStorm from JetBrains](https://www.jetbrains.com/webstorm/)    
 The JavaScript and TypeScript IDE
+
+## Existing Implementations
+
+These are existing implementations of the layers. They can be put together locally to run a complete system.
+
+Live instances will be set up in the future.
+
+### Clients
+
+These are available client implementations.
+
+Open Exchange Website Widget    
+[GitHub - pecknigel/open-exchange-website-widget](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
+
+### Application Layer
+
+These are available implementations of the application layer.
+
+Open Exchange Data    
+[GitHub - pecknigel/open-exchange-data](https://github.com/pecknigel/open-exchange-data)
+
+### Data Access Layer
+
+These are available implementations of the data access layer.
+
+Open Exchange Connector    
+[GitHub - pecknigel/open-exchange-connector](https://github.com/pecknigel/open-exchange-connector)
+
+### Data Services
+
+These are available implementations of data services.
+
+Open Exchange Tickers  
+[GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
 
 ## Project Ideas
 
@@ -84,40 +118,6 @@ Create a tool for debugging that consumes one or more data services and displays
 #### Your Own Ideas
 
 There are so many possibilities for practicing software development with a fake trading exchange system. See what you can come up with or discuss it with a mentor. Share and discuss your ideas in the comments.
-
-## Existing Implementations
-
-These are existing implementations of the layers. They can be put together locally to run a complete system.
-
-Live instances will be set up in the future.
-
-### Clients
-
-These are available client implementations.
-
-Open Exchange Website Widget    
-[GitHub - pecknigel/open-exchange-website-widget](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
-
-### Application Layer
-
-These are available implementations of the application layer.
-
-Open Exchange Data    
-[GitHub - pecknigel/open-exchange-data](https://github.com/pecknigel/open-exchange-data)
-
-### Data Access Layer
-
-These are available implementations of the data access layer.
-
-Open Exchange Connector    
-[GitHub - pecknigel/open-exchange-connector](https://github.com/pecknigel/open-exchange-connector)
-
-### Data Services
-
-These are available implementations of data services.
-
-Open Exchange Tickers  
-[GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
 
 ## Conclusion
 
