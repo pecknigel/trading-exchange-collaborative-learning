@@ -21,7 +21,7 @@ It’s the starting point if you’re looking for something.
 
 As clients are developed you’ll be able to use those to try out the system.
 
-For now, or to try out backend layers directly, the best tool is an HTTP client such as:
+For now, or to work with backend layers directly, the best tool is an HTTP client such as:
 
 Postman    
 [Download Postman](https://www.postman.com/downloads/)
