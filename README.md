@@ -57,7 +57,7 @@ Live instances will be set up in the future.
 These are available client implementations.
 
 Open Exchange Website Widget    
-[GitHub - pecknigel/open-exchange-website-widget](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
+[GitHub - Prescription-Free-Academy/open-exchange-website-widget](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
 
 ### Application Layer
 
