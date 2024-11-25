@@ -13,9 +13,10 @@ It’s the starting point if you’re looking for something.
 
 1. [Getting Started](#getting-started)
     1. [Development Tools](#development-tools)
-2. [Existing Implementations](#existing-implementations)
-3. [Project Ideas](#project-ideas)
-4. [Conclusion](#conclusion)
+2. [System Architecture](#system-architecture)
+3. [Existing Implementations](#existing-implementations)
+4. [Project Ideas](#project-ideas)
+5. [Conclusion](#conclusion)
 
 ## Getting Started
 
@@ -38,6 +39,10 @@ You’re going to need an IDE or Integrated Development Environment. We highly r
 
 [WebStorm from JetBrains](https://www.jetbrains.com/webstorm/)    
 The JavaScript and TypeScript IDE
+
+## System Architecture
+
+A ramble about system architecture can be [found here](https://github.com/pecknigel/trading-exchange-collaborative-learning/blob/main/System-Architecture.md). The best thing to do is probably to book sessions with Nigel to discuss it.
 
 ## Existing Implementations
 
