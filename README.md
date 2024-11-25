@@ -42,7 +42,9 @@ The JavaScript and TypeScript IDE
 
 ## System Architecture
 
-A ramble about system architecture can be [found here](https://github.com/pecknigel/trading-exchange-collaborative-learning/blob/main/System-Architecture.md). The best thing to do is probably to book sessions with Nigel to discuss it.
+A ramble about system architecture can be [found here](https://github.com/pecknigel/trading-exchange-collaborative-learning/blob/main/System-Architecture.md).
+
+The best thing to do is probably to book a session with Nigel to look at it and discuss it.
 
 ## Existing Implementations
 
