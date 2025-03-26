@@ -57,7 +57,7 @@ Live instances will be set up in the future.
 These are available client implementations.
 
 Open Exchange Website Widget    
-[GitHub - Prescription-Free-Academy/open-exchange-website-widget](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
+[GitHub - pecknigel/open-exchange-website-widget](https://github.com/pecknigel/open-exchange-website-widget)
 
 ### Application Layer
 
@@ -86,7 +86,7 @@ There are several ways that you can get involved with the program in order to le
 
 At the least, you can pick up one of the projects, run it on your computer and see how it works. Everything that you need to do that is openly available. You can modify the code, connect it with other projects/layers, and work with it however you like.
 
-If you’d like more structure and guidance to your learning then mentoring sessions are available. These can be booked as you need them via the main website [Prescription Free Academy](https://prescriptionfree.academy/).
+If you’d like more structure and guidance to your learning then mentoring sessions are available. These can be booked as you need them via [Preply](https://preply.com/en/tutor/4217857).
 
 The following ideas for clients that you could develop might be useful.
 
