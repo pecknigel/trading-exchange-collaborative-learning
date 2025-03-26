@@ -1,7 +1,7 @@
 
 # Trading Exchange Collaborative Learning Program
 
-This repo introduces the Trading Exchange Collaborative Learning Program from the [Prescription Free Academy of Web Development and Software Engineering](https://prescriptionfree.academy/).
+This repo introduces the Trading Exchange Collaborative Learning Program.
 
 It includes general information and documentation relating to the program, along with links to individual project repos.
 
